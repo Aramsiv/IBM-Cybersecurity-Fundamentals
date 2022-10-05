@@ -1,5 +1,6 @@
 # IBM-Cybersecurity-Fundamentals
 Course
+
 This badge earner demonstrates a foundational understanding of cybersecurity concepts, objectives, and practices. 
 
 This includes 
@@ -16,6 +17,7 @@ This also includes an awareness of the job market.
 
 Badge earners can use this knowledge to pursue further education for a variety of roles in cybersecurity.
 
+https://www.credly.com/badges/a4e99f5d-e4fa-4c4f-ab1e-fa7d71bd66c4
 
 -- Cyber threat groups
 
