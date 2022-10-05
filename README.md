@@ -208,9 +208,9 @@ SIEM systems collect security-data from across the enterprise and generate repor
 
 NTA, EDR and similar solutions are highly effective at detecting threats in specific silos within the IT environment, and enable teams to rapidly respond to them. 
 
-AI solutions are a new security paradigm that combines the strengths of traditional solutions. Like SIEM, it collects data from multiple security silos. Like NTA and EDR, it enables in-depth investigation and direct response to threats discovered in the environment. They collects in-depth data from networks, endpoints, cloud systems, email systems, and other resources. 
+XDR (AI) solution is a new security paradigm that combines the strengths of traditional solutions. Like SIEM, it collects data from multiple security silos. Like NTA and EDR, it enables in-depth investigation and direct response to threats discovered in the environment. XDR collects in-depth data from networks, endpoints, cloud systems, email systems, and other resources. 
 
-They uses artificial intelligence (AI) and threat intelligence to identify threats and construct a full attack story, which security teams can easily visualize, and quickly act upon. It integrates with IT systems and security tools, enabling security teams to identify an incident, investigate it, and rapidly respond from the same interface.
+XDR uses artificial intelligence (AI) and threat intelligence to identify threats and construct a full attack story, which security teams can easily visualize, and quickly act upon. It integrates with IT systems and security tools, enabling security teams to identify an incident, investigate it, and rapidly respond from the same interface.
 
 End-to-End Prevention & Detection 
 
