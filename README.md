@@ -234,4 +234,27 @@ MDR Layer: Expert Monitoring and Oversight
     Proactive threat hunting – Search for malicious artifacts and IoC within the customer’s environment 
     Incident response guidance – Remote assistance in isolation and removal of malicious infrastructure, presence and activity  
 
+-------------------------------------
 
+SOC Analytics Platforms
+
+    Analytics & Reporting
+    SIEM
+    SOAR
+
+Endpoint Security
+
+    EDR
+    MDR
+    XDR
+
+
+Managed SOC
+
+    SOC-as-a-Service
+
+Advanced Detection & Protection
+
+    Inline Sandbox Solutions
+    NDR
+    Deception Systems 
