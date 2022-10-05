@@ -212,7 +212,7 @@ XDR (AI) solution is a new security paradigm that combines the strengths of trad
 
 XDR uses artificial intelligence (AI) and threat intelligence to identify threats and construct a full attack story, which security teams can easily visualize, and quickly act upon. It integrates with IT systems and security tools, enabling security teams to identify an incident, investigate it, and rapidly respond from the same interface.
 
-End-to-End Prevention & Detection 
+XDR Layer: End-to-End Prevention & Detection 
 
     Endpoint protection – multi-layered defense including NGAV, protecting against malware, ransomware, exploits and fileless attacks
     Network protection – protecting against scanning attacks, MITM, lateral movement and data exfiltration 
