@@ -40,40 +40,40 @@ They include:
 
 -- Types of attacks
 
-Backdoor Trojan
+- Backdoor Trojan
 
 A backdoor Trojan creates a backdoor vulnerability in the victim's system, allowing the attacker to gain remote, and almost total, control. Frequently used to link up a group of victims' computers into a botnet or zombie network, attackers can use the Trojan for other cybercrimes.
 
-Cross-site scripting (XSS) attack
+- Cross-site scripting (XSS) attack
 
 XSS attacks insert malicious code into a legitimate website or application script to get a user's information, often using third-party web resources. Attackers frequently use JavaScript for XSS attacks, but Microsoft VCScript, ActiveX and Adobe Flash can be used, too.
 
-Denial-of-service (DoS)
+- Denial-of-service (DoS)
 
 DoS and Distributed denial-of-service (DDoS) attacks flood a system's resources, overwhelming them and preventing responses to service requests, which reduces the system's ability to perform. Often, this attack is a setup for another attack.
 
-DNS tunneling
+- DNS tunneling
 
 Cybercriminals use DNS tunneling, a transactional protocol, to exchange application data, like extract data silently or establish a communication channel with an unknown server, such as a command and control (C&C) exchange.
 
-Malware
+- Malware
 
 Malware is malicious software that can render infected systems inoperable. Most malware variants destroy data by deleting or wiping files critical to the operating system's ability to run.
 
-Phishing
+- Phishing
 
 Phishing scams attempt to steal users' credentials or sensitive data like credit card numbers. In this case, scammers send users emails or text messages designed to look as though they're coming from a legitimate source, using fake hyperlinks.
 
-Ransomware
+- Ransomware
 
 Ransomware is sophisticated malware that takes advantage of system weaknesses, using strong encryption to hold data or system functionality hostage. Cybercriminals use ransomware to demand payment in exchange for releasing the system. A recent development with ransomware is the add-on of extortion tactics.
 
 
-SQL injection
+- SQL injection
 
 Structured Query Language (SQL) injection attacks embed malicious code in vulnerable applications, yielding backend database query results and performing commands or similar actions that the user didn't request.
 
-Zero-day exploit
+- Zero-day exploit
 
 Zero-day exploit attacks take advantage of unknown hardware and software weaknesses. These vulnerabilities can exist for days, months or years before developers learn about the flaws.
 
@@ -137,15 +137,15 @@ Social engineering is not a cyber attack. Instead, social engineering is all abo
 
 Types:
 
-Phishing
+- Phishing
 
-Watering hole attacks
+- Watering hole attacks
 
-Business email compromise attacks
+- Business email compromise attacks
 
-Physical social engineering
+- Physical social engineering
 
-USB baiting
+- USB baiting
 
 
 -- Security strategies
@@ -155,11 +155,11 @@ IT security is a set of cybersecurity strategies that prevents unauthorized acce
 
 Types of IT security
 
-Network security
-Internet security
-Endpoint security
-Cloud security
-Application security
+- Network security
+- Internet security
+- Endpoint security
+- Cloud security
+- Application security
 
 
 Working from anywhere, combined with enterprises' move to SaaS and the cloud, has effectively rendered the perimeter security model obsolete and traditional security defenses ineffective
@@ -176,6 +176,7 @@ Security zero trust help address the following business initiatives:
 
 
 https://www.ibm.com/docs/en/i/7.4?topic=cryptography-concepts
+
 https://www.ibm.com/docs/en/ibm-mq/7.5?topic=concepts-cryptography
 
 
