@@ -1,4 +1,7 @@
 # IBM-Cybersecurity-Fundamentals
+
+https://www.credly.com/users/lorena-vismara/badges
+
 Course
 
 This badge earner demonstrates a foundational understanding of cybersecurity concepts, objectives, and practices. 
